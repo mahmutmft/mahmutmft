@@ -1,7 +1,3 @@
-<head>
-    <style>
-    </style>
-</head>
 <h1 align="center">Hi 👋, I'm Mahmut Miftaroski</h1>
 <h3 align="center">A student at FINKI</h3>
 
